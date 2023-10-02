@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/thinkful-ei-dragonfly/MichaelR-MichaelD-buggy-script#readme",
   "dependencies": {
-    "debug": "^4.1.1",
+    "debug": "^4.3.1",
     "nbd": "^0.2.2"
   }
 }
